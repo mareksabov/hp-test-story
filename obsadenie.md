@@ -3,8 +3,8 @@
 | Rola           | Actor         |
 | -------------- | ------------- |
 | Hracka         | Female Player |
-| Sestra         | Brittney      |
+| Sestra         | Madison       |
 | Hackerka       | Katherine     |
 | Ex Hracky      | Derek         |
 | Bf Hracky      | Patrik        |
-| Neznamy z netu | Arin          |
+| Neznamy z netu | Frank         |
