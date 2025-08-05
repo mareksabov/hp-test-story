@@ -1,0 +1,371 @@
+Name,EnableItemFunctions,SpecialType,IsDistractableRigidItem,IsInteractiveItem,IsActionItem,IsCharacterInteraction
+AC Unit,True,All,True,True,False,False
+Airvent ArtRoom,True,All,True,True,False,False
+Airvent DiningRoom,True,All,True,True,False,False
+Airvent DownstairsGuestBathroom,True,All,True,True,False,False
+Airvent GarageWall,True,All,True,True,False,False
+Airvent Kitchen,True,All,True,True,False,False
+Airvent LaundryRoom,True,All,True,True,False,False
+Airvent LivingRoom,True,All,True,True,False,False
+Airvent MasterBathroom,True,All,True,True,False,False
+Airvent MasterBedroom,True,All,True,True,False,False
+Airvent SpareRoom,True,All,True,True,False,False
+Airvent Study,True,All,True,True,False,False
+Airvent UpstairsGuestBathroom,True,All,True,True,False,False
+Apartment Computer,False,All,True,True,False,False
+Apartment Sofa Seat (Left),False,Chair,True,True,True,False
+Apartment Sofa Seat (Right),False,Chair,True,True,True,False
+Armchair,False,Chair,True,True,True,False
+ArtRoomWindow,False,All,True,True,False,False
+Ashley's Panties,False,All,True,True,False,False
+AshleyTop,True,All,True,True,False,False
+Auxiliary Dock,True,All,True,True,False,False
+Bathroom Door,False,Door,True,True,False,False
+Battery Pack,False,All,True,True,False,False
+Bed (Left),False,Bed,True,True,True,False
+Bed (Right),False,Bed,True,True,True,False
+BedEdge,False,SexSpot,True,True,True,False
+Bedroom Closet Door (Left),False,Door,True,True,False,False
+Bedroom Closet Door (Right),False,Door,True,True,False,False
+BeerPongCupTrigger0,False,All,True,True,False,False
+BikeLock,True,All,True,True,False,False
+BikeLockKey,True,All,True,True,False,False
+Billboard,True,All,True,True,False,False
+BloodWall,False,All,True,True,False,False
+Blue Hair Dye,False,All,True,True,False,False
+Blueprints,False,All,True,True,False,False
+Box of Nails,True,All,True,True,False,False
+Breaker Panel,True,All,True,True,False,False
+Briefcase,False,All,True,True,False,False
+BriefcaseOpen,False,All,True,True,False,False
+Broom,True,All,True,True,False,False
+Bug Zapper,True,All,True,True,False,False
+Bushes,True,All,True,True,False,False
+Cabernet,True,All,True,True,False,False
+CabinetLeft,False,Door,True,True,False,False
+CabinetRight,False,Door,True,True,False,False
+Camera,True,All,True,True,False,False
+CatPicture,False,All,True,True,False,False
+Cell Phone Jammer,False,All,True,True,False,False
+Chardonnay,True,All,True,True,False,False
+Chicken,True,Burnable,True,True,False,False
+Chicken Nuggets,True,All,True,True,False,False
+Chili Peppers,True,All,True,True,False,False
+Choclate Syrup,True,All,True,True,False,False
+ChocolateBar,False,All,True,True,False,False
+ChristmasGazeboStar,True,All,True,True,False,False
+Clear Eyes,False,All,True,True,False,False
+Closed Briefcase,True,All,True,True,False,False
+Clothes,False,All,True,True,False,False
+Clothes Basket 1,False,All,True,True,False,False
+Clothes Basket 2f,False,All,True,True,False,False
+Clothes Basket 3,False,All,True,True,False,False
+Coffee,True,All,True,True,False,False
+Collar,True,All,True,True,False,False
+CollarBloody,True,All,True,True,False,False
+CompuBrah Bed (Left),False,Bed,True,True,True,False
+CompuBrah Bed (Right),False,Bed,True,True,True,False
+CompuBrahSex,False,SexSpot,True,True,True,False
+Computer,True,All,True,True,False,False
+Computer Chair,False,Chair,True,True,True,False
+Condom,False,All,True,True,False,False
+Couch (Left),False,Chair,True,True,True,False
+Couch (Middle),False,Chair,True,True,True,False
+Couch (Right),False,Chair,True,True,True,False
+Cowboy Scorpiosmus,True,All,True,True,False,False
+Credit Card,False,All,True,True,False,False
+Crowd,True,All,True,True,False,False
+Cucumber,True,All,True,True,False,False
+Dark Long Sleeve Women's Top,False,All,True,True,False,False
+DeadSnake,True,All,True,True,False,False
+Derek's Shirt,False,All,True,True,False,False
+Desk Drawer Left,False,Door,True,True,False,False
+Desk Drawer Right,False,Door,True,True,False,False
+Diary,False,All,True,True,False,False
+DirtMound,False,All,True,True,False,False
+DirtyClue1,True,All,True,True,False,False
+DirtyClue2,True,All,True,True,False,False
+DirtyClue3,True,All,True,True,False,False
+Discarded Magazine,False,All,True,True,False,False
+Disembodied Head,True,Burnable,True,True,False,False
+DLiciousOutfit,False,All,True,True,False,False
+DoorBracingSpot,False,All,True,True,True,False
+DoorBracingSpot2,False,All,True,True,True,False
+Double-Sided Dildo,True,All,True,True,False,False
+DownstairsBathroomMirror,False,All,True,True,False,False
+DownstairsToilet,False,Chair,True,True,True,False
+Dresser,False,All,True,True,False,False
+Drone,True,All,True,True,False,False
+Drone Remote,True,All,True,True,False,False
+Dryer,True,All,True,True,False,False
+Dryer Door,True,Door,True,True,False,False
+DryerSeat,False,Chair,True,True,True,False
+DryerStuckSpot,False,All,True,True,True,False
+DryerStuckSpotImmediate,False,All,True,True,True,False
+Duct Tape,False,All,True,True,False,False
+DVD2,False,All,True,True,False,False
+E-Cig Vape,True,All,True,True,False,False
+Eggs,True,All,True,True,False,False
+Empty Cup,False,All,True,True,False,False
+Escape Hatch,True,Door,True,True,False,False
+EtherealClue,True,All,True,True,False,False
+Face Cream,False,All,True,True,False,False
+Faucet,False,All,True,True,False,False
+Fifty Dollars,False,All,True,True,False,False
+Film Camera,True,All,True,True,False,False
+Fire Pit,True,All,True,True,False,False
+Fireplace,True,All,True,True,False,False
+Firetrail,True,All,True,True,False,False
+FlamingoLeftA,True,All,True,True,False,False
+FlamingoRightB,True,All,True,True,False,False
+FlamingoSeatLeft,False,Chair,True,True,True,False
+FlamingoSeatRight,False,Chair,True,True,True,False
+Flask,True,All,True,True,False,False
+Floor Towels,False,All,True,True,False,False
+Flower,True,All,True,True,False,False
+Foam Finger,True,Burnable,True,True,False,False
+Frank's Chair,True,Chair,True,True,True,False
+FreeSnake,True,All,True,True,False,False
+FreeSnakeFemale,True,All,True,True,False,False
+Freezer,True,Door,True,True,False,False
+Fridge,True,Door,True,True,False,False
+Front Door,True,Door,True,True,False,False
+FrontWindowBracingSpot,False,All,True,True,True,False
+FrontWindowBracingSpot2,False,All,True,True,True,False
+FrontWindowBracingSpot3,False,All,True,True,True,False
+Garage Door,True,Door,True,True,False,False
+GarageBinMovable,True,All,True,True,False,False
+GarageWall Airvent Cover,True,All,True,True,False,False
+Gastronomy Book,True,All,True,True,False,False
+Gazebo,False,All,True,True,False,False
+GazeboFuseBox,True,All,True,True,False,False
+Glasses,True,All,True,True,False,False
+Gut Grip,False,All,True,True,False,False
+Gutter,False,All,True,True,False,False
+Hammer,True,All,True,True,False,False
+Hammer2,True,All,True,True,False,False
+HangingTentacle,True,All,True,True,False,False
+Hedge Clippers,True,All,True,True,False,False
+HoleInFence,False,All,True,True,False,False
+Hot Tub Base,True,All,True,True,False,False
+HotAirBalloon,True,All,True,True,False,False
+HotTub Seat 1,False,HotTubSeat,True,True,True,False
+HotTub Seat 2,False,HotTubSeat,True,True,True,False
+HotTub Seat 3,False,HotTubSeat,True,True,True,False
+HotTub Seat 4,False,HotTubSeat,True,True,True,False
+HotTub Seat 5,False,HotTubSeat,True,True,True,False
+HotTubCoverFolded,True,All,True,True,False,False
+HotTubCoverUnfolded,True,All,True,True,False,False
+Jack Daniel's,True,All,True,True,False,False
+Joint,False,All,True,True,False,False
+Katana,True,All,True,True,False,False
+Kettle,True,All,True,True,False,False
+Key,True,All,True,True,False,False
+Key2,True,All,True,True,False,False
+Key3,True,All,True,True,False,False
+Keychain,True,All,True,True,False,False
+KitchenCabinet5,False,Door,True,True,False,False
+KitchenCabinet6,False,Door,True,True,False,False
+KitchenCabinet7,False,Door,True,True,False,False
+KitchenCabinet8,False,Door,True,True,False,False
+Knife,False,All,True,True,False,False
+Laptop,True,All,True,True,False,False
+Laundry Room Door,False,Door,True,True,False,False
+LawnChair1,False,Chair,True,True,True,False
+LawnChair2,False,Chair,True,True,True,False
+LawnChair3,False,Chair,True,True,True,False
+LawnChair4,False,Chair,True,True,True,False
+LeahEarpiece,True,All,True,True,False,False
+LivingRoomTV,True,All,True,True,False,False
+LizKatzButt,True,All,True,True,False,False
+LRTVBackButton,True,All,True,True,False,False
+LRTVPlayAllButton,True,All,True,True,False,False
+LRTVSongFiveButton,True,All,True,True,False,False
+LRTVSongFourButton,True,All,True,True,False,False
+LRTVSongOneButton,True,All,True,True,False,False
+LRTVSongSixButton,True,All,True,True,False,False
+LRTVSongThreeButton,True,All,True,True,False,False
+LRTVSongTwoButton,True,All,True,True,False,False
+Madison's Phone,True,All,True,True,False,False
+Marijuana,False,All,True,True,False,False
+Master Bathroom Door,False,Door,True,True,False,False
+Master Bedroom Door,False,Door,True,True,False,False
+MasterBathTubEdgeSeat,False,Chair,True,True,True,False
+MasterBathTubSeat,False,Chair,True,True,True,False
+Matchbox,False,All,True,True,False,False
+Mayonnaise,True,All,True,True,False,False
+Merlot,True,All,True,True,False,False
+Microwave,True,All,True,True,False,False
+Microwave Door,True,Door,True,True,False,False
+MistletoeBallsDecoration,True,All,True,True,False,False
+Money Makers Monthly,False,All,True,True,False,False
+Motor Oil,True,All,True,True,False,False
+MP3 Player,True,All,True,True,False,False
+MP3 Player Cable,False,All,True,True,False,False
+MP3 Player DC,False,All,True,True,False,False
+Mug,False,All,True,True,False,False
+Natty Lite 1,True,All,True,True,False,False
+Natty Lite 10,True,All,True,True,False,False
+Natty Lite 11,True,All,True,True,False,False
+Natty Lite 12,True,All,True,True,False,False
+Natty Lite 13,True,All,True,True,False,False
+Natty Lite 14,True,All,True,True,False,False
+Natty Lite 2,True,All,True,True,False,False
+Natty Lite 3,True,All,True,True,False,False
+Natty Lite 4,True,All,True,True,False,False
+Natty Lite 5,True,All,True,True,False,False
+Natty Lite 6,True,All,True,True,False,False
+Natty Lite 7,True,All,True,True,False,False
+Natty Lite 8,True,All,True,True,False,False
+Natty Lite 9,True,All,True,True,False,False
+Natty Lite Open,True,All,True,True,False,False
+Nerdy Taped Glasses,False,All,True,True,False,False
+Nightstand1,False,Door,True,True,False,False
+Nightstand2,False,Door,True,True,False,False
+Notebook,False,All,True,True,False,False
+Notepad,False,All,True,True,False,False
+Office Chair,False,Chair,True,True,True,False
+Office Drawer Left,False,Door,True,True,False,False
+Office Drawer Right,False,Door,True,True,False,False
+Open Briefcase,True,All,True,True,False,False
+OrangeBin1,False,All,True,True,False,False
+OrganizingBriefcaseSpot,False,All,True,True,True,False
+Outside Sofa 1 Left,False,Chair,True,True,True,False
+Outside Sofa 1 Middle,False,Chair,True,True,True,False
+Outside Sofa 1 Right,False,Chair,True,True,True,False
+Outside Sofa 2 Left,False,Chair,True,True,True,False
+Outside Sofa 2 Middle,False,Chair,True,True,True,False
+Outside Sofa 2 Right,False,Chair,True,True,True,False
+OwlPainting,True,All,True,True,False,False
+PaddockButton,True,All,True,True,False,False
+Painkillers,True,All,True,True,False,False
+Pantry Door (Left),False,Door,True,True,False,False
+Pantry Door (Right),False,Door,True,True,False,False
+Paper,True,All,True,True,False,False
+Paper Bag,True,All,True,True,False,False
+Paper Bag Crunched,True,All,True,True,False,False
+Patio Armchair,False,Chair,True,True,True,False
+Patio Armchair 2,False,Chair,True,True,True,False
+Pencil,False,All,True,True,False,False
+Penguin,True,Burnable,True,True,False,False
+Petition,True,All,True,True,False,False
+Phone2,True,All,True,True,False,False
+Phone3,True,All,True,True,False,False
+Phone4,True,All,True,True,False,False
+Phone5,True,All,True,True,False,False
+Phone6,True,All,True,True,False,False
+PingPongBall,False,All,True,True,False,False
+PinkUnderwear,True,All,True,True,False,False
+PipeFix,False,All,True,True,False,False
+PipeWater,True,All,True,True,False,False
+Pizza Box,False,All,True,True,False,False
+PizzaBoxFortification,True,All,True,True,False,False
+PlankPileInYard,False,All,True,True,False,False
+PlanksFortification,True,All,True,True,False,False
+PlanksFortificationExtraNails,True,All,True,True,False,False
+PlayerBeerPongPractice,True,MiniGameSpot,True,True,True,False
+PlexiglassHotTub,False,All,True,True,False,False
+PlexiglassStacked,False,All,True,True,False,False
+Popcorn,True,All,True,True,False,False
+Popper,False,All,True,True,False,False
+PopperBox,True,All,True,True,False,False
+Potatoes,True,All,True,True,False,False
+Pouf,False,Chair,True,True,True,False
+PrintableClue,True,All,True,True,False,False
+Printer,False,All,True,True,False,False
+Red Solo Cup 0,True,All,True,True,False,False
+Red Solo Cup 1,True,All,True,True,False,False
+Red Solo Cup 2,True,All,True,True,False,False
+Red Solo Cup 3,True,All,True,True,False,False
+Red Solo Cup 4,True,All,True,True,False,False
+Red Solo Cup 5,True,All,True,True,False,False
+Red Solo Cup 6,True,All,True,True,False,False
+Red Solo Cup 7,True,All,True,True,False,False
+Red Solo Cup 8,True,All,True,True,False,False
+Red Solo Cup 9,True,All,True,True,False,False
+Remote Control,False,All,True,True,False,False
+RipppedWhalePoster,False,All,True,True,False,False
+RoofSeatLeft,False,Chair,True,True,True,False
+RoofSeatRight,False,Chair,True,True,True,False
+Router,False,All,True,True,False,False
+Rum,True,All,True,True,False,False
+RumOpen,True,All,True,True,False,False
+Safe,False,Door,True,True,False,False
+Salami,True,All,True,True,False,False
+Salmon,False,All,True,True,False,False
+Satchel,False,All,True,True,False,False
+Scorpion Tequila,True,All,True,True,False,False
+SD Card,False,All,True,True,False,False
+Shake Light,True,All,True,True,False,False
+SleepingMaskFolded,True,All,True,True,False,False
+SleepingMaskMountable,True,All,True,True,False,False
+Slider Door,False,Door,True,True,False,False
+Small Spare Closet Door (L),False,Door,True,True,False,False
+Small Spare Closet Door (R),False,Door,True,True,False,False
+Snowball,True,All,True,True,False,False
+SnowballBucket,True,All,True,True,False,False
+Soda,True,All,True,True,False,False
+Sofa (Left),False,Chair,True,True,True,False
+Sofa (Right),False,Chair,True,True,True,False
+SoloBeerPongTable,False,All,True,True,False,False
+SoloPingPongBallStorage,False,All,True,True,False,False
+Spare Room 2 Door,False,Door,True,True,False,False
+Spare Room Door,False,Door,True,True,False,False
+SpareRoomSofaLeft,False,Chair,True,True,True,False
+SpareRoomSofaMiddle,False,Chair,True,True,True,False
+SpareRoomSofaRight,False,Chair,True,True,True,False
+Speaker1,True,All,True,True,False,False
+Speaker2,True,All,True,True,False,False
+Spoon,False,All,True,True,False,False
+SprayPaintCan,True,All,True,True,False,False
+SRClosetDoor1,True,Door,True,True,False,False
+SRClosetDoor2,True,Door,True,True,False,False
+SRClosetDoor3,True,Door,True,True,False,False
+SRClosetDoor4,True,Door,True,True,False,False
+Starbomb,False,All,True,True,False,False
+StarbombBox,True,All,True,True,False,False
+Stepstool,True,All,True,True,False,False
+StepstoolStandSpot,False,All,True,True,True,False
+Stove,False,All,True,True,False,False
+Study Closet Door (L),False,Door,True,True,False,False
+Study Closet Door (R),False,Door,True,True,False,False
+Study Door,False,Door,True,True,False,False
+StudyLaptopTypingSpot,False,All,True,True,True,False
+Sundress,True,All,True,True,False,False
+Sunglasses,True,All,True,True,False,False
+Sweeties,True,All,True,True,False,False
+Tablet,True,All,True,True,False,False
+Talking Fish,True,All,True,True,False,False
+Tentacle,True,All,True,True,False,False
+Terrarium,True,All,True,True,False,False
+Thermos,True,All,True,True,False,False
+Thermostat,True,All,True,True,False,False
+Toaster,True,All,True,True,False,False
+Towel,False,All,True,True,False,False
+Towel2,False,All,True,True,False,False
+Towel3,False,All,True,True,False,False
+Trash Can,False,All,True,True,False,False
+Trunk,True,All,True,True,False,False
+Undressing Neighbor,False,All,True,True,False,False
+Upstairs Bathroom Door,False,Door,True,True,False,False
+UpstairsBathroomMirror,False,All,True,True,False,False
+UpstairsBathroomToilet,False,Chair,True,True,True,False
+UpstairsBathTubEdgeSeat,False,Chair,True,True,True,False
+UpstairsBathTubSeat,False,Chair,True,True,True,False
+UpstairsMasterBathroomMirror,False,All,True,True,False,False
+USB Stick,False,All,True,True,False,False
+Utility Closet Door,True,Door,True,True,False,False
+Valentines Chocolates,True,All,True,True,False,False
+Vanity Chair,False,Chair,True,True,True,False
+Vibrator,True,All,True,True,False,False
+Vickie's Panties,True,All,True,True,False,False
+Vodka,True,All,True,True,False,False
+VoiceRecorder,False,All,True,True,False,False
+Washer,True,All,True,True,False,False
+WasherSeat,False,Chair,True,True,True,False
+WaterMain,True,All,True,True,False,False
+WhalePoster,True,All,True,True,False,False
+Whipped Cream,True,All,True,True,False,False
+Wine Rack,False,All,True,True,False,False
+Wrench,False,All,True,True,False,False
+YouTool,True,All,True,True,False,False
